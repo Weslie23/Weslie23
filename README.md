@@ -17,18 +17,16 @@
 
 </div>
 
-<!-- ─────────────────────────  PIXEL / 3D ART SLOT  ─────────────────────────
-     GitHub READMEs render animated GIFs (not live 3D / WebGL).
-     1. Add your pixel "White Death" animation as a .gif to this repo (e.g. assets/white-death.gif)
-     2. Uncomment the block below.
-     True 3D (spinning model) belongs on the PORTFOLIO WEBSITE (Three.js) — we build that next.
-     Swap the character by changing the filename to:
-       assets/white-death.gif       (Simo Häyhä — masked/hat)
-       assets/white-death-fist.gif  (blue fist pose)
-       assets/white-death-mask.gif  (Morte Branca — hooded mask)  <- current -->
+<!-- ─────────────────────────  WHITE DEATH ART  ─────────────────────────
+     Layout: two GIFs side by side on top, one below.
+     All files live in assets/ — swap any filename to change a slot. -->
 
 <div align="center">
-  <img src="assets/white-death-mask.gif" width="240" alt="Simo Häyhä — The White Death (Record of Ragnarok)" />
+  <img src="assets/wd-main.gif" height="180" alt="Simo Häyhä — The White Death" />
+  &nbsp;&nbsp;
+  <img src="assets/white-death.gif" height="180" alt="Simo Häyhä" />
+  <br/>
+  <img src="assets/wd-approved.gif" height="180" alt="Simo Häyhä approves — Record of Ragnarok" />
   <br/>
   <sub><i>❄️ The White Death — Simo Häyhä · Record of Ragnarok</i></sub>
 </div>
