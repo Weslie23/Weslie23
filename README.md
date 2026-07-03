@@ -1,7 +1,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════
      WESLIE JEE  —  GITHUB PROFILE README
-     Username used below: NuLiVed  (from your git remote)
-     >>> If your GitHub username is different, Find & Replace "NuLiVed" everywhere. <<<
+     Username used below: Weslie23  (from your git remote)
+     >>> If your GitHub username is different, Find & Replace "Weslie23" everywhere. <<<
      Repo to paste this into:  github.com/<username>/<username>  (repo name = your username)
 ═══════════════════════════════════════════════════════════════════════════ -->
 
@@ -13,7 +13,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=NuLiVed&label=Profile%20views&color=38B2AC&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Weslie23&label=Profile%20views&color=38B2AC&style=for-the-badge" alt="Profile views" />
 
 </div>
 
@@ -259,19 +259,19 @@ mindmap
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NuLiVed&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=38B2AC&icon_color=38B2AC" alt="stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NuLiVed&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38B2AC" alt="top langs" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Weslie23&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=38B2AC&icon_color=38B2AC" alt="stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Weslie23&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38B2AC" alt="top langs" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NuLiVed&theme=tokyonight&hide_border=true&background=0D1117&stroke=38B2AC&ring=38B2AC&fire=38B2AC&currStreakLabel=38B2AC" alt="streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Weslie23&theme=tokyonight&hide_border=true&background=0D1117&stroke=38B2AC&ring=38B2AC&fire=38B2AC&currStreakLabel=38B2AC" alt="streak" />
 
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=NuLiVed&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" alt="trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Weslie23&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" alt="trophies" />
 </div>
 
 ---
