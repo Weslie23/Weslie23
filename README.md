@@ -34,15 +34,16 @@
 
 I am **Weslie Jee**, a **Data Science specialist** who genuinely loves what I do — especially **designing and drawing**. I'm a **Computer Engineering** graduate with experience in Computer Networking, Network Automation & Deployment, Web & Mobile-based Application Development, and programming Embedded & Microprocessor Systems (Arduino, Raspberry Pi).
 
+- 💼 &nbsp;I'm mainly a **Full-Stack Developer** for a real-estate company — I build & run the **CRM website**, and being into data science I handle pretty much everything, **especially the automations**.
 - 📊 &nbsp;My focus is **Data Science** — computer vision, machine learning, and deep learning.
 - 🎨 &nbsp;Outside the code, I'm a **designer & artist** — illustration, editing, and visual design are my thing.
 - ⚛️ &nbsp;Explored a bit of **quantum computing** during my 3rd year in college.
-- 🌱 &nbsp;Currently sharpening **Cybersecurity, Penetration Testing, and Microsoft Power Platforms**.
 
 ## 🚀 Featured Work
 
-- 🏡 **[Integrity Realty PH](https://official.integrityrealty.ph)** — a real-estate **CRM & property platform**. Originally built on WordPress + WP Residence + Elementor + Squarespace (PHP); I rebuilt it with **Astro**.
-- 🌆 **Philippine Properties** — original maker of the platform (built together with a colleague).
+- 🏡 **[Official Integrity Realty](https://official.integrityrealty.ph)** — a real-estate **CRM & property platform**. Originally WordPress + WP Residence + Elementor + Squarespace (PHP); I rebuilt it with **Astro**.
+- 🌐 **[Integrity Realty](https://integrityrealty.ph)** — the main company website.
+- 🌆 **[Philippine Properties](https://philippine-properties.com/)** — original maker of the platform (built together with a colleague).
 
 <!-- ─────────────────────────  MERMAID MINDMAP  ─────────────────────────
      GitHub renders ```mermaid blocks natively — this draws itself. Very few
