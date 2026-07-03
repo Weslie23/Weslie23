@@ -9,7 +9,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38B2AC&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Weslie+Jee+%F0%9F%91%8B;Data+Science+Specialist;Designer+%26+Artist+at+heart+%F0%9F%8E%A8;Computer+Engineer+%7C+Builder+of+things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=760&height=60&lines=Hi%2C+I'm+Weslie+Jee+%F0%9F%91%8B;A+Data+Science+specialist+who+loves+what+he+does;Full-Stack+Developer+for+a+real-estate+CRM+company;I+design%2C+I+draw%2C+and+I+automate+everything;Computer+Engineer+%E2%80%A2+Deep+Learning+%E2%80%A2+Computer+Vision" alt="Typing SVG" />
 
 <br/>
 
@@ -22,11 +22,11 @@
      All files live in assets/ — swap any filename to change a slot. -->
 
 <div align="center">
-  <img src="assets/wd-main.gif" height="180" alt="Simo Häyhä — The White Death" />
-  &nbsp;&nbsp;
   <img src="assets/white-death.gif" height="180" alt="Simo Häyhä" />
-  <br/>
+  &nbsp;&nbsp;
   <img src="assets/wd-approved.gif" height="180" alt="Simo Häyhä approves — Record of Ragnarok" />
+  <br/>
+  <img src="assets/wd-main.gif" height="180" alt="Simo Häyhä — The White Death (Skylark)" />
   <br/>
   <sub><i>❄️ The White Death — Simo Häyhä · Record of Ragnarok</i></sub>
 </div>
