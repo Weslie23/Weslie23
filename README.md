@@ -9,7 +9,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38B2AC&center=true&vCenter=true&width=800&height=55&lines=Hi%2C+I'm+Weslie+Jee+%F0%9F%91%8B;Data+Science+specialist+who+loves+the+craft;Full-Stack+Dev+for+a+real-estate+CRM;I+design%2C+I+draw%2C+I+automate+everything;Deep+Learning+%E2%80%A2+Computer+Vision+%E2%80%A2+Automation" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38B2AC&center=true&vCenter=true&width=1000&height=55&lines=Hi%2C+I'm+Weslie+Jee+%F0%9F%91%8B;Data+Science+specialist+who+loves+the+craft;Full+stack%2C+Machine+Learning%2C+Deep+Learning+%E2%80%A2+Computer+Vision+%E2%80%A2+Automation;Full-Stack+Dev+for+a+real-estate+CRM;i+create%2C+i+fix+and+troubleshoot%2C+i+edit%2C+I+design%2C+I+draw%2C+I+automate+%E2%80%94+read+my+info+below%2C+thanks+for+visiting!" alt="Typing SVG" />
 
 <br/>
 
